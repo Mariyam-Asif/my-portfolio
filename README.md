@@ -31,10 +31,10 @@ npm run dev
 ## Open http://localhost:3000 in your browser to view the portfolio.
 
 # Technologies Used
-Next.js
-Tailwind CSS
-React.js
-JavaScript
-TypeScript
-HTML
-CSS
+Next.js <br>
+Tailwind CSS <br>
+React.js <br>
+JavaScript <br>
+TypeScript <br>
+HTML <br>
+CSS <br>
