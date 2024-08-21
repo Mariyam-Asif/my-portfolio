@@ -1,36 +1,36 @@
-## Portfolio Website
+# Portfolio Website
 
 Welcome to my portfolio! This site showcases my projects, skills, and achievements in web development.
 
-## Features
-# Showcase Projects:
+# Features
+## Showcase Projects:
 Explore a variety of my completed projects, including web apps and tools.
-# Skills Overview: 
+## Skills Overview: 
 Learn about my technical skills and expertise in languages and frameworks.
-# Contact Me:
+## Contact Me:
 Get in touch to discuss opportunities, collaborations, or just to connect.
 
-## Getting Started
+# Getting Started
 
-# Clone the Repository:
+## Clone the Repository:
 
 git clone https://github.com/Mariyam-Asif/portfolio.git
 
-# Navigate to the Project Directory:
+## Navigate to the Project Directory:
 
 cd portfolio
 
-# Install Dependencies:
+## Install Dependencies:
 
 npm install
 
-# Run the Development Server:
+## Run the Development Server:
 
 npm run dev
 
-# Open http://localhost:3000 in your browser to view the portfolio.
+## Open http://localhost:3000 in your browser to view the portfolio.
 
-## Technologies Used
+# Technologies Used
 Next.js
 Tailwind CSS
 React.js
